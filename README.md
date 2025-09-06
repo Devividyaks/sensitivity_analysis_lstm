@@ -30,7 +30,7 @@ This project implements a baseline LSTM model for stock price forecasting and ma
 ## How to Run
 
 1. **Clone the repo**:
-   git clone https://github.com/yourusername/msc_project_sensitivity_analysis_lstm.git
+   git clone https://github.com/Devividyks/sensitivity_analysis_lstm.git
 cd msc_project_sensitivity_analysis_lstm
 2. **Install dependencies**:
   pip install -r requirements.txt
