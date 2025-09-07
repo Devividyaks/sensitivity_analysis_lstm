@@ -11,7 +11,6 @@ This project implements a baseline LSTM model for stock price forecasting and ma
 ## Structure
 
 - `data/`        - Raw and processed datasets
-- `notebooks/`   - All python notebooks for each research question (RQ1, RQ2, RQ3, RQ4 , RQ5 )
 - `models/`      - Saved and checkpointed models
 - `artifacts/`   - Exported arrays, model artifacts, etc.
 - `results/`     - Output results which include Figures, metrics, attributions
@@ -30,11 +29,11 @@ This project implements a baseline LSTM model for stock price forecasting and ma
 ## How to Run
 
 1. **Clone the repo**:
-   git clone https://github.com/Devividyks/sensitivity_analysis_lstm.git
-cd msc_project_sensitivity_analysis_lstm
-2. **Install dependencies**:
+git clone https://github.com/Devividyks/sensitivity_analysis_lstm.git
+cd sensitivity_analysis_lstm
+3. **Install dependencies**:
   pip install -r requirements.txt
-3. **Open the notebooks** in Colab and follow the cells in order for each RQ.
+4. **Open the .ipynb notebooks** using Jupyter or VS Code and follow the cells in order for each RQ.
 
 ## Requirements
 
